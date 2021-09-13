@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\jundto.SNIRW\tp\jmarquette\table_sinus\table_sinus\Source.cpp(12,22): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+  table_sinus.vcxproj -> D:\jundto.SNIRW\tp\jmarquette\table_sinus\Debug\table_sinus.exe
